@@ -1,5 +1,3 @@
 export default defineAppConfig({
-    theme: {
-        api_url: '/api_test'
-    }
+    APIURL: '/api_test',
 })
