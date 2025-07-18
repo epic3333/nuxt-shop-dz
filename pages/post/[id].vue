@@ -1,6 +1,6 @@
 <template>
   <div>
-    edit post
+    view post
   </div>
 </template>
 
